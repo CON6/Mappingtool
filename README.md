@@ -29,6 +29,8 @@ Instead of being directed through a mapping application this tool helps you to d
 - Step 3: Chose your starting point on Base Map
 - Step 4: Enjoy scenic travels through your city as you enjoy the city's beautiful parks & gardens!
 
+(*note: components in green specify main user control points*)
+
 ## Compatibility
 
 - Grasshopper file is optimised for use with Rhino7
