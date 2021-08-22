@@ -1,25 +1,38 @@
 # ParkCompass :compass:
 
 ## Description
-This Grasshopper tool helps **YOU** to identify routes and ways to navigate through a city via its public parks & gardens.      
-Instead of being directed through a mapping application this tool helps you to draw your own scenic routes through a              city!
+This Grasshopper tool helps **YOU** to identify different routes and ways to navigate through a city via its public parks & gardens.      
+Instead of being directed through a mapping application this tool helps you to draw your own scenic routes through a city!
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/88935906/129476642-4593cf6a-110b-4118-ac10-62a36a95a0f5.JPG" alt="alt text" width="250" height="250"> <img src="https://user-images.githubusercontent.com/88935906/129476786-c69792b3-5f46-4a72-a4a1-77bae8f04ca1.JPG" alt="alt text" width="250" height="250"> <img src="https://user-images.githubusercontent.com/88935906/129476894-e147334f-ff40-4d26-b866-7d4473aa382e.JPG" alt="alt text" width="250" height="250"> 
+<img src="https://user-images.githubusercontent.com/88935906/130352888-62debac9-61da-47be-9b54-25dfbf34d8d9.JPG" alt="alt text" width="700">
 
-Waypoint Map via Parks        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;     New Route Sketch!      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Hotel Proximity Map and Waypoint Map via parks                         
+*Central Katmandu - Different routes to clusters of Parks via combination of car + walking*
 
-<img src="https://user-images.githubusercontent.com/88935906/129476962-346c30c6-e77b-4901-917f-7571cd6df65f.JPG" alt="alt text" width="500" height="500">
 
-New Route Sketch! (Connecting main hotel clusters on a route via parks)
+<img src="https://user-images.githubusercontent.com/88935906/130353337-f48b5b73-4f00-4000-9e60-482cb2f67011.JPG" alt="alt text" width="700">
+
+*Central Budapest Riverside Area - Different routes to clusters of Parks via combination of car + walking*
+
+
+<img src="https://user-images.githubusercontent.com/88935906/130353479-0be948e0-2806-4cc0-9354-dd5de435b8d9.JPG" alt="alt text" width="700">
+
+
+*Central Budapest Riverside Area - Different routes to clusters of Parks via bike riding*
+&nbsp;
 
 ## Use
 
-- Step 1: Create Vectors for parks/greenspace
-- Step 2: Create a proximity grid field with other attraction/interest points
-- step 3: Draw your own route ready to explore
+- Step 1: Upload OSM file 
+- Step 2: Chose your mode of transport either bike / car / foot / public transport or combination car + foot 
+- Step 3: Chose your starting point on Base Map
+- Step 4: Enjoy scenic travels through your city as you enjoy the city's beautiful parks & gardens!
+
+## Compatibility
+
+- Grasshopper file is optimised for use with Rhino7
 
 ## Status
 
-This program is undergoing **SIGNIFICANT** development...
+This program is *still* undergoing **SIGNIFICANT** development...
