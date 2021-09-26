@@ -1,6 +1,6 @@
 # ParkCompass :compass:
 
-## Description (Ver 0.7)
+## Description *(v0.7)*
 This Grasshopper tool helps **YOU** to identify different routes and ways to navigate through a city via its public parks & gardens.      
 Instead of being directed through a mapping application this tool helps you to pick your own scenic routes through a city!
 
