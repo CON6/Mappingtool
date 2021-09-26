@@ -1,6 +1,6 @@
 # ParkCompass :compass:
 
-## Description
+## Description (Ver 0.7)
 This Grasshopper tool helps **YOU** to identify different routes and ways to navigate through a city via its public parks & gardens.      
 Instead of being directed through a mapping application this tool helps you to pick your own scenic routes through a city!
 
@@ -27,7 +27,7 @@ Image:  *Accompanying graphs help inform decisons regarding transport mode, jour
   
 - **Step 2:** Chose your mode of transport either bike / car / foot / public transport or combination car + foot
 
-...*(use graphs to help determine amount of available OSM data for each mode)*
+...*(use the graphs to help determine amount of available OSM data for each mode)*
 <br>
  
 - **Step 3:** Draw curve over Base Map to set study area
